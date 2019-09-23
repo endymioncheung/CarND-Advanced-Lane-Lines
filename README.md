@@ -745,7 +745,10 @@ class Line:
 
 ### Pipeline (video)
 
-Here's a [link to my video result](output_videos/project_video.mp4)
+<p align="center">
+  <a href="output_videos/project_video.mp4"><img width="460" height="300" src="output_videos/project_video.gif"></a>
+  <a href="output_videos/project_video.mp4">Link to my video result</a>
+</p>
 
 ```python
 input_video = 'test_videos/project_video.mp4'
